@@ -3,6 +3,8 @@ import discourseComputed from "discourse-common/utils/decorators";
 
 const TRANSLATION_KEYS = {
   "Image Critiques": "critiques",
+  "Beginners": "beginners",
+  "Discussions": "discussions",
 };
 
 export default apiInitializer("0.8", (api) => {
