@@ -14,6 +14,7 @@ const TRANSLATION_KEYS = {
   "Wildlife Critiques": "critiques",
   "Weekly Challenge": "critiques",
   "Image Critiques": "critiques",
+  "Project Critiques": "project-critiques",
   "Beginners Feedback": "beginners",
   "Discussions": "discussions",
   "Introductions": "introductions",
