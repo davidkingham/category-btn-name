@@ -3,6 +3,7 @@ import discourseComputed from "discourse-common/utils/decorators";
 
 const TRANSLATION_KEYS = {
   "Image Critiques": "critiques",
+  "Abstract Nature Critiques": "critiques",
   "Beginners Feedback": "beginners",
   "Discussions": "discussions",
   "Introductions": "introductions",
