@@ -2,21 +2,7 @@ import { apiInitializer } from "discourse/lib/api";
 import discourseComputed from "discourse-common/utils/decorators";
 
 const TRANSLATION_KEYS = {
-  "Adok-Veszek": "post_ad",
-  "Modok": "post_ad",
-  "Szettek": "post_ad",
-  "Felújítható Tankok": "post_ad",
-  "Porlasztós Tankok": "post_ad",
-  "Kiegészítők": "post_ad",
-  "Aromák és Kellékek": "post_ad",
-  "Csere E-Cigire": "post_ad",
-  "Aukció": "post_ad",
-  "Értékelések": "review",
-  "Talált / Elveszett": "report",
-  "Események": "new_event",
-  "YouTuber": "share_video",
-  "Jobban Vagyok!": "submit_story",
-  "Utazó Vape": "new_offer",
+  "Post Image": "image_critique",
 };
 
 export default apiInitializer("0.8", (api) => {
