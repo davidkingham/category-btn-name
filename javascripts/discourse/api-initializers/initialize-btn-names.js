@@ -3,7 +3,7 @@ import discourseComputed from "discourse-common/utils/decorators";
 
 const TRANSLATION_KEYS = {
   "Image Critiques": "critiques",
-  "Beginners": "beginners",
+  "Beginners Feedback": "beginners",
   "Discussions": "discussions",
   "Introductions": "introductions",
 };
