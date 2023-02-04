@@ -2,7 +2,7 @@ import { apiInitializer } from "discourse/lib/api";
 import discourseComputed from "discourse-common/utils/decorators";
 
 const TRANSLATION_KEYS = {
-  "Post Image": "image_critique",
+  "Post Image": "image_critiques",
 };
 
 export default apiInitializer("0.8", (api) => {
