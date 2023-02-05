@@ -18,6 +18,7 @@ const TRANSLATION_KEYS = {
   "Beginners Feedback": "beginners",
   "Discussions": "discussions",
   "Introductions": "introductions",
+  "How would you process my photo?": "process-raw",
 };
 
 export default apiInitializer("0.8", (api) => {
