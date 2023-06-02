@@ -19,6 +19,9 @@ const TRANSLATION_KEYS = {
   "Discussions": "discussions",
   "Introductions": "introductions",
   "Image Processing Challenge": "processing-challenge",
+  "Pro Image Critiques": "critiques",
+  "Pro Discussions": "discussions",
+  "Pro Project Critiques": "project-critiques",
 };
 
 export default apiInitializer("0.8", (api) => {
